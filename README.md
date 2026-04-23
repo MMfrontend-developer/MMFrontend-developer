@@ -1,15 +1,15 @@
 <!-- HEADER -->
 <h1 align="center">Hi 👋, I'm Muhyideen Muhammad</h1>
 
-<p align="center">
+<h3 align="center">
 Frontend Engineer | React • Next.js • React Native (Expo)
 <br/>
 Building fast, scalable web & mobile applications
-</p>
+</h3>
 
 <!-- TYPING ANIMATION -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=React+Developer;React+Native+(Expo)+Developer;Building+Modern+Web+%26+Mobile+Apps" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Next.js+Developer;React+Developer;React+Native+(Expo)+Developer;Building+Modern+Web+%26+Mobile+Apps" />
 </p>
 
 ---
@@ -50,13 +50,6 @@ Building fast, scalable web & mobile applications
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mmfrontend-developer" height="160"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mmfrontend-developer&layout=compact" height="160"/>
-</p>
-
----
-
-### 🏆 Achievements
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=mmfrontend-developer&theme=flat&no-frame=true&margin-w=10" />
 </p>
 
 ---
