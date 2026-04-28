@@ -3,6 +3,7 @@
 
 <h3 align="center">
 Frontend Engineer | React • Next.js • React Native (Expo)
+  
 <br/>
 Building fast, scalable web & mobile applications
 </h3>
