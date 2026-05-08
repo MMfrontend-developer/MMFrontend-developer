@@ -23,7 +23,7 @@ Building fast, scalable web & mobile applications
 ### 🚀 About Me
 - 🔭 Working on <a href="https://oxbank-oll1.vercel.app/">OX-BANK</a>  
 - 🌱 Growing in <strong>React Native (Expo)</strong>  
-- 👨‍💻 <a href="https://muhyideen-muhammad.vercel.app/">Portfolio</a> 
+- 👨‍💻 <a href="https://muhyideen-muhammad.vercel.app/">Portfolio</a>  
 - 💬 <strong>React, Next.js, Tailwind CSS</strong>  
 - 📫 mmuhyideen1234@gmail.com  
 - 📄 <a href="https://drive.google.com/file/d/1OCw0UD5MJqN15BaIp-HgPrgD3a7-1Uco/view?usp=sharing">Resume</a>  
