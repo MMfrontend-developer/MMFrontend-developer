@@ -28,7 +28,7 @@ Building fast, scalable web & mobile applications
 - 📫 mmuhyideen1234@gmail.com  
 - 📄 <a href="https://drive.google.com/file/d/1OCw0UD5MJqN15BaIp-HgPrgD3a7-1Uco/view?usp=sharing">Resume</a>  
 
-</td>
+</td> 
 
 <td width="50%" align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=mmfrontend-developer&show_icons=true&locale=en" />
