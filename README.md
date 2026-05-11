@@ -33,7 +33,7 @@ Building fast, scalable web & mobile applications
 <td width="50%" align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=mmfrontend-developer&show_icons=true&locale=en" />
 </td>
-</tr>
+</tr> 
 </table>
 
 ---
