@@ -17,7 +17,7 @@ Building fast, scalable web & mobile applications
 
 <!-- ABOUT + IMAGE SIDE BY SIDE -->
 <table>
-<tr>
+<tr> 
 <td width="50%">
 
 ### 🚀 About Me
