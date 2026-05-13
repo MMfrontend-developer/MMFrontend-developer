@@ -47,7 +47,7 @@ Building fast, scalable web & mobile applications
 
 ---
 
-### 📊 GitHub Insights
+### 📊 GitHub Insights 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mmfrontend-developer" height="160"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mmfrontend-developer&layout=compact" height="160"/>
