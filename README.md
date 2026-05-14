@@ -17,8 +17,9 @@ Building fast, scalable web & mobile applications
 
 <!-- ABOUT + IMAGE SIDE BY SIDE -->
 <table>
-<tr> 
-<td width="50%">
+<tr>
+
+<td width="50%" valign="top">
 
 ### 🚀 About Me
 
@@ -27,18 +28,23 @@ Frontend Engineer and UI/UX Designer passionate about building fast, scalable, a
 - 🔭 Currently building <a href="https://oxbank-oll1.vercel.app/">OX-BANK</a>  
 - 🌱 Currently learning and improving in <strong>React Native (Expo)</strong>  
 - ⚡ Specialized in <strong>React, Next.js, TypeScript, and Tailwind CSS</strong>  
-- 👨‍💻 Explore my work: <a href="https://muhyideen-muhammad.vercel.app/">Portfolio</a>  
-- 📄 View my <a href="https://drive.google.com/file/d/1OCw0UD5MJqN15BaIp-HgPrgD3a7-1Uco/view?usp=sharing">Resume</a>  
-- 📫 Reach me at: <strong>mmuhyideen1234@gmail.com</strong>  
+- 👨‍💻 <a href="https://muhyideen-muhammad.vercel.app/">Portfolio</a>  
+- 📄 <a href="https://drive.google.com/file/d/1OCw0UD5MJqN15BaIp-HgPrgD3a7-1Uco/view?usp=sharing">Resume</a>  
+- 📫 <strong>mmuhyideen1234@gmail.com</strong>
 
 </td>
 
 <td width="50%" align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mmfrontend-developer&show_icons=true&locale=en" />
-</td> 
-</tr> 
-</table>
 
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=mmfrontend-developer&show_icons=true&theme=transparent" 
+  width="100%" 
+/>
+
+</td>
+
+</tr>
+</table>
 ---
 
 ### 🛠️ Tech Stack
