@@ -21,14 +21,17 @@ Building fast, scalable web & mobile applications
 <td width="50%">
 
 ### 🚀 About Me
-- 🔭 Working on <a href="https://oxbank-oll1.vercel.app/">OX-BANK</a>  
-- 🌱 Growing in <strong>React Native (Expo)</strong>  
-- 👨‍💻 <a href="https://muhyideen-muhammad.vercel.app/">Portfolio</a>
-- 💬 <strong>React, Next.js, Tailwind CSS</strong>  
-- 📫 mmuhyideen1234@gmail.com  
-- 📄 <a href="https://drive.google.com/file/d/1OCw0UD5MJqN15BaIp-HgPrgD3a7-1Uco/view?usp=sharing">Resume</a>  
 
-</td> 
+Frontend Engineer and UI/UX Designer passionate about building fast, scalable, and user-friendly web & mobile applications.
+
+- 🔭 Currently building <a href="https://oxbank-oll1.vercel.app/">OX-BANK</a>  
+- 🌱 Currently learning and improving in <strong>React Native (Expo)</strong>  
+- ⚡ Specialized in <strong>React, Next.js, TypeScript, and Tailwind CSS</strong>  
+- 👨‍💻 Explore my work: <a href="https://muhyideen-muhammad.vercel.app/">Portfolio</a>  
+- 📄 View my <a href="https://drive.google.com/file/d/1OCw0UD5MJqN15BaIp-HgPrgD3a7-1Uco/view?usp=sharing">Resume</a>  
+- 📫 Reach me at: <strong>mmuhyideen1234@gmail.com</strong>  
+
+</td>
 
 <td width="50%" align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=mmfrontend-developer&show_icons=true&locale=en" />
