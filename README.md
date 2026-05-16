@@ -45,7 +45,7 @@ Frontend Engineer and UI/UX Designer passionate about building fast, scalable, a
 </td>
 
 </tr> 
-</table>
+</table> 
 ---
 
 ### 🛠️ Tech Stack
