@@ -21,7 +21,7 @@ Building fast, scalable web & mobile applications
 
 <td width="50%" valign="top">
 
-### 🚀 About Me   
+### 🚀 About Me    
 
 Frontend Engineer and UI/UX Designer passionate about building fast, scalable, and user-friendly web & mobile applications.
 
