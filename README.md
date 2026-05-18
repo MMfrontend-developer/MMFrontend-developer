@@ -71,5 +71,5 @@ Frontend Engineer and UI/UX Designer passionate about building fast, scalable, a
 </a>
 <a href="https://linkedin.com/in/muhammad-muhyideen-dev">
 <img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
+</a>  
 </p>
