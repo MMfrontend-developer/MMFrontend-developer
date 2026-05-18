@@ -34,7 +34,7 @@ Frontend Engineer and UI/UX Designer passionate about building fast, scalable, a
 
 </td>
 
-<td width="50%" align="center"> 
+<td width="50%" align="center">  
 
 <img 
   src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
