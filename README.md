@@ -5,7 +5,7 @@
 Frontend Engineer & UI/UX Designer| React • Next.js • React Native (Expo)          
   
 <br/>  
-Building fast, scalable web & mobile applications           
+Building fast, seamless, scalable web & mobile applications           
 </h3>
 
 <!-- TYPING ANIMATION -->
