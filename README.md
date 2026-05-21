@@ -57,7 +57,7 @@ Frontend Engineer and UI/UX Designer passionate about building fast, scalable, a
 
 ---
 
-### 📊 GitHub Insights  
+### 📊 GitHub Insights   
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=mmfrontend-developer" height="160"/>
 </p>
