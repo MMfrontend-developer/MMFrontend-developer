@@ -42,7 +42,7 @@ Frontend Engineer and UI/UX Designer passionate about building fast, scalable, a
   alt="coding gif"
 />  
 
-</td>
+</td> 
 
 </tr> 
 </table> 
