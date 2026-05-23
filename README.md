@@ -26,7 +26,7 @@ Building fast, seamless, scalable web & mobile applications
 Frontend Engineer and UI/UX Designer passionate about building fast, scalable, and user-friendly web & mobile applications.
 
 - 🔭 Currently building <a href="https://oxbank-oll1.vercel.app/">OX-BANK</a>  
-- 🌱 Currently improving and advancing in <strong>React Native (Expo)</strong>  
+- 🌱 Currently improving and advancing in <strong>React Native (Expo)</strong>
 - ⚡ Specialized in <strong>React, Next.js, TypeScript, and Tailwind CSS</strong>    
 - 👨‍💻 <a href="https://muhyideen-muhammad.vercel.app/">Portfolio</a>
 - 📄 <a href="https://drive.google.com/file/d/1OCw0UD5MJqN15BaIp-HgPrgD3a7-1Uco/view?usp=sharing">Resume</a>  
