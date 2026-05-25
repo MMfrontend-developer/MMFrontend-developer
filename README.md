@@ -44,7 +44,7 @@ Frontend Engineer and UI/UX Designer passionate about building fast, scalable, a
 
 </td> 
 
-</tr> 
+</tr>  
 </table> 
 ---
 
