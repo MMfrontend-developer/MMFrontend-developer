@@ -23,7 +23,7 @@ Building fast, seamless, scalable web & mobile applications
 
 ### 🚀 About Me    
 
-Frontend Engineer and UI/UX Designer passionate about building fast, scalable, and user-friendly web & mobile applications. 
+Frontend Engineer and UI/UX Designer passionate about building fast, scalable, and user-friendly web & mobile applications.
 
 - 🔭 Currently building <a href="https://oxbank-oll1.vercel.app/">OX-BANK</a>  
 - 🌱 Currently improving and advancing in <strong>React Native (Expo)</strong> 
