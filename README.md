@@ -19,7 +19,7 @@ Building fast, seamless, scalable web & mobile applications
 <table>
 <tr>
 
-<td width="50%" valign="top">
+<td width="50%" valign="top"> 
 
 ### 🚀 About Me     
 
