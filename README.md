@@ -14,12 +14,12 @@ Building fast, seamless, scalable web & mobile applications
 ---
 
 <!-- ABOUT + IMAGE SIDE BY SIDE -->
-<table>
+<table>     
 <tr>
 
 <td width="50%" valign="top">
 
-### 🚀 About Me  
+### 🚀 About Me 
 
 Frontend Engineer and UI/UX Designer passionate about building fast, scalable, and user-friendly web & mobile applications.
 
