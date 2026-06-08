@@ -42,10 +42,10 @@ Frontend Engineer and UI/UX Designer passionate about building fast, scalable, a
 
 </td>
 </tr>   
-</table> 
+</table>     
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack     
 <p align="center">  
 <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,firebase,git" />
 <br/>
