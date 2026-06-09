@@ -61,7 +61,7 @@ Frontend Engineer and UI/UX Designer passionate about building fast, scalable, a
 ---
 
 ### 🌐 Connect With Me
-<p align="center"> 
+<p align="center">
 <a href="https://twitter.com/muhyideen_dev">
 <img src="https://skillicons.dev/icons?i=twitter" />
 </a>
