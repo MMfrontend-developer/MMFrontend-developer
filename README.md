@@ -28,7 +28,7 @@ Frontend Engineer and UI/UX Designer passionate about building fast, scalable, a
 - ⚡ Specialized in <strong>React, Next.js, TypeScript, and Tailwind CSS</strong>
 - 👨‍💻 <a href="https://muhyideen-muhammad.vercel.app/">Portfolio</a>
 - 📄 <a href="https://drive.google.com/file/d/1OCw0UD5MJqN15BaIp-HgPrgD3a7-1Uco/view?usp=sharing">Resume</a>  
-- 📫 <strong>mmuhyideen1234@gmail.com</strong> 
+- 📫 <strong>mmuhyideen1234@gmail.com</strong>
 </td>
 
 <td width="50%" align="center">
