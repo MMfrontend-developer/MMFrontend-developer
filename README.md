@@ -12,7 +12,6 @@ Building fast, seamless, scalable web & mobile applications
 </p>
 
 ---
-
 <!-- ABOUT + IMAGE SIDE BY SIDE -->
 <table>
 <tr>
