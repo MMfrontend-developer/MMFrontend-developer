@@ -1,7 +1,7 @@
 <!-- HEADER -->
 <h1 align="center">Hi 👋, I'm Muhyideen Muhammad</h1>
 
-<h3 align="center">       
+<h3 align="center">      
 Frontend Engineer & UI/UX Designer | React • Next.js • React Native (Expo)
 <br/>
 Building fast, seamless, scalable web & mobile applications
