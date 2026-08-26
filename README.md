@@ -3,7 +3,7 @@
 <h3 align="center">
 Frontend Engineer & UI/UX Designer | React • Next.js • React Native (Expo)
 <br/>
-Building fast, seamless, scalable web & mobile applicationsm       
+Building fast, seamless, scalable web & mobile applicationsm      
 </h3>
 
 <!-- TYPING ANIMATION -->
