@@ -1,5 +1,5 @@
   <!-- HEADER -->
-<h1 align="center">Hi 👋, I'm Muhyideen Muhammad</h1>      
+<p align="center">Hi 👋, I'm Muhyideen Muhammad</p>      
 
 <h3 align="center">
 Frontend Engineer & UI/UX Designer | React • Next.js • React Native (Expo)
